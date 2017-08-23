@@ -1,6 +1,8 @@
 # Starter Web Project
 
-This repository is for showing how Git and GitHub work
+This repository is for showing how Git and GitHub work.
+
+Showing how rto use Git and github together
 
 ## Introduction
 
