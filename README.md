@@ -16,6 +16,8 @@ Purpose test
 
 ## How to Contribute
 
+Please fork this repository.
+
 ## Deployment
 
 Dpoloyment description
