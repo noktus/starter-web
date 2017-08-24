@@ -19,3 +19,7 @@ Purpose test
 ## Deployment
 
 Dpoloyment description
+
+## Copyright
+
+Copyright 2014
