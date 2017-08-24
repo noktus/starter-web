@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Jordi Allue jordi.allue@eurecat.org
 
 # THANKS
 
