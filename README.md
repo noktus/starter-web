@@ -4,7 +4,7 @@ This repository is for showing how Git and GitHub work.
 
 Showing how rto use Git and github together
 
-Adding a line for rebasing example.
+Adding a line for rebasing example. More changes from feature branch.
 
 ## Introduction
 
