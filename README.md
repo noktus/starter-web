@@ -25,5 +25,5 @@ Please fork this repository.
 Dpoloyment description
 
 ## Copyright
-
+All rights reserved
 Copyright 2014
