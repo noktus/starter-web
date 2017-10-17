@@ -9,8 +9,7 @@ Adding a line for rebasing example. More changes from feature branch.
 ## Introduction
 
 Sample website with plenty of files for demos
-LOLLOLOLOLOLOLOLLOçç
-
+LOLLOLOLOLO Emergency fix
 
 ## Purpose
 
